@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi 👋, I'm Your Janell Tagayun
+# Hi 👋, I'm Janell Tagayun
 
 ### 2nd Year CS Student | Aspiring Front and Game Developer | Tech Enthusiast
 
