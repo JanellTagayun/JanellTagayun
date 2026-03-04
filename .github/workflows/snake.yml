@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_login: JanellTagayun
+          github_user_name: JanellTagayun
           outputs: dist/github-contribution-grid-snake-dark.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
