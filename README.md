@@ -1,11 +1,9 @@
 ## Hi there 👋
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Your Janell Tagayun
 
-### 2nd Year CS Student | Aspiring Developer | Tech Enthusiast
+### 2nd Year CS Student | Aspiring Front and Game Developer | Tech Enthusiast
 
 🌱 Exploring New Technologies
-
----
 
 ## 💻 My Skill Stack
 
