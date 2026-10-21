@@ -1,10 +1,8 @@
-
-
 <div align="center">
 
 # Hi 👋, I'm Janell Tagayun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=2nd+Year+CS+Student;Aspiring+Front+and+Game+Developer;Tech+Enthusiast;Exploring+New+Technologies+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=2nd+Year+CS+Student;Aspiring+Cybersecurity+Specialist+🔐;Learning+Ethical+Hacking+%26+Network+Security;Also+Exploring+Frontend+%26+Game+Dev+🎮)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,11 +23,30 @@
 
 ---
 
+## 🔐 Currently Learning (Cybersecurity Path)
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+</div>
+
+- 🛡️ Networking fundamentals & the Linux command line
+- 🕵️ Ethical hacking basics through hands-on labs (TryHackMe, CTFs)
+- 🔑 Cryptography, web security, and the OWASP Top 10
+- 🐍 Writing small Python scripts to automate security tasks
+
+---
+
 ## 🚀 Currently
 
-- 🌱 Exploring **Frontend Development** & **Game Development**
-- 🎮 Building games with **Unity**
-- 🎯 Goal: Become a skilled **Frontend & Game Developer**
+- 🌱 Studying **Computer Science** (2nd year)
+- 🔐 Building a foundation toward a career in **Cybersecurity**
+- 🎮 Making games with **Unity** and exploring **Frontend Development** on the side
+- 🎯 Goal: Become a skilled **Cybersecurity Specialist**
 - 💡 Always learning something new!
 
 ---
@@ -52,7 +69,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/JanellTagayun/JanellTagayun/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/JanellTagayun/JanellTagayun/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
