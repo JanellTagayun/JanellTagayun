@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Janell Tagayun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=2nd+Year+CS+Student;Aspiring+Cybersecurity+Specialist+🔐;Learning+Ethical+Hacking+%26+Network+Security;Also+Exploring+Frontend+%26+Game+Dev+🎮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=3rd+Year+CS+Student;Aspiring+Network+Specialist+🌐;Studying+Cisco+Networking;Interested+in+Network+Security+🔐;Also+Exploring+Frontend+%26+Game+Dev+🎮)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,41 +12,38 @@
 
 <div align="center">
 
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🔐 Currently Learning (Cybersecurity Path)
+## 🌐 Currently Learning (Networking Path)
 
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-</div>
-
-- 🛡️ Networking fundamentals & the Linux command line
-- 🕵️ Ethical hacking basics through hands-on labs (TryHackMe, CTFs)
-- 🔑 Cryptography, web security, and the OWASP Top 10
-- 🐍 Writing small Python scripts to automate security tasks
+- 🔌 Cisco networking: routing, switching, and network configuration
+- 🧮 IP addressing, subnetting, and how data moves across networks
+- 🐧 Linux command line for network troubleshooting
+- 🔍 Analyzing traffic with Wireshark
+- 🔐 Network security basics (firewalls, VLANs, access control)
+- 🐍 Python scripting to automate network tasks
 
 ---
 
 ## 🚀 Currently
 
-- 🌱 Studying **Computer Science** (2nd year)
-- 🔐 Building a foundation toward a career in **Cybersecurity**
+- 🌱 Studying **Computer Science** (3rd year)
+- 🌐 Building a foundation toward a career as a **Network Specialist**
+- 🔐 Learning network security alongside networking
 - 🎮 Making games with **Unity** and exploring **Frontend Development** on the side
-- 🎯 Goal: Become a skilled **Cybersecurity Specialist**
+- 🎯 Goal: Become a skilled **Network Specialist**
 - 💡 Always learning something new!
 
 ---
@@ -90,6 +87,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JanellTagayun&color=36BCF7&style=flat-square&label=Profile+Views)
 
-*✨ "First, solve the problem. Then, write the code."*
+*✨ "The network is the computer."*
 
 </div>
